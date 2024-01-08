@@ -476,14 +476,15 @@
     gap: 20px;
     padding-bottom: 20px;
     margin-bottom: 20px;
-    margin-left:40px;
+    margin-left:200px;
 }
 .footer-4{
     margin-right: 20px;
     justify-content: end;
-    margin-left: 1200px;
+    margin-left: 1000px;
     position: relative;
-    margin-top: -70px;
+    margin-top: -65px;
     padding-bottom: 50px;
+    
 }
 /* all fends */
