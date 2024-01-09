@@ -151,6 +151,7 @@
     margin: 100px 60px;
     display: flex;
     line-height: 100px;
+    position: relative;
 
 }
 .four-1{
@@ -160,6 +161,7 @@
     font-weight: 500;
     line-height:60px;
     padding-top: 40px;
+    position: relative;
     /* padding: 0px 40px; */
     /* text-align: center; */
 }
@@ -170,7 +172,6 @@
     font-weight: 900;
     line-height:5px;
     text-transform: capitalize;
-    /* padding: 0px 60px; */
 }
 .four-3{
     color: rgba(7, 2, 17, 0.60);
@@ -179,13 +180,22 @@
     font-weight: 400;
     line-height: 32px;
     width: 393px;
-    text-align:justify;
-    /* padding: 0px 60px; */
+
+}
+
+.img-boder-style{
+    border:solid 15px;
+    border-radius: 100%;
+    color: #F00;
+    padding: 50px;
+    margin: auto;
+
 }
 .four-4{
     width: 364.844px;
     height: 364.844px;
     flex-shrink: 0;
+   
 }
 .four-5{
     color: #F00;
