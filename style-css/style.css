@@ -183,19 +183,13 @@
 
 }
 
-.img-boder-style{
-    border:solid 15px;
-    border-radius: 100%;
-    color: #F00;
-    padding: 50px;
-    margin: auto;
 
-}
 .four-4{
     width: 364.844px;
     height: 364.844px;
     flex-shrink: 0;
-   
+    margin-bottom: 30px;
+    padding-bottom: 50px;
 }
 .four-5{
     color: #F00;
